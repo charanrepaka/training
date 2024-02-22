@@ -1,0 +1,8 @@
+.pagestyle{
+    background: #F8FFE8;
+    background: linear-gradient(to right, #F8FFE8 0%, #E3F5AB 33%, #B7DF2D 100%);
+    background-size: cover;
+    padding-left:500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
