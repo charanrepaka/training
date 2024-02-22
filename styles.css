@@ -1,0 +1,12 @@
+body{
+    background-image: url("stadium background.jpg");
+    background-size: cover;
+    color:white;
+    padding-left: 350px;
+    padding-top: 100px;
+}
+
+table, th, td {
+    border: 3px solid white;
+    border-collapse: collapse;
+  }
